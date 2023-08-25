@@ -32,4 +32,4 @@ dicionario = {h1:
 
 print(dicionario)
 
-driver.close()
+driver.quit()
