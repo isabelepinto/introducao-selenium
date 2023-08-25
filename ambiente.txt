@@ -1,0 +1,30 @@
+Python
+Editor -> Atom ou VScode
+Navegador -> Chrome
+Webdriver -> ChromeDriver
+
+webdriver é um servidor web que fica na máquina para que o selenium consiga conectar com o browser
+
+chocolatey.org/
+
+Selenium foi desenvolvido para Automação de testes de software
+    - criar bots
+    - redução de trabalho repetitivo
+    - webscraping (bib scrapy também)
+
+* Selenium IDE
+    -> grava as ações que fazemos no navegador e as reproduz em código
+
+* Selenium WebDriver
+    -> código - biblioteca selenium - webdriver(servidor web que conversa com um browser específico) - 
+
+* Selenium Grid
+    -> permite que rode vários browsers ao mesmo tempo
+    -> faz solicitações pro hub pra rodar em outros computadores(nodes)
+
+
+**Ambiente Virtual**
+- python -m venv venv-projeto-selenium
+- source venv-projeto-selenium/bin/activate
+- pip install selenium
+- pip install --upgrade pip
